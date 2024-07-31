@@ -8,11 +8,7 @@ This game is a thrilling physics-based game developed using the Flutter framewor
 </div>
 
 # :star2: Demo:
-
-<div align="center"> 
-<video src="https://github.com/muhammedalblaout/square_game_app/blob/master/screenshots/demo.mp4"></video>
-
-</div>
+![](screenshots/demo.gif)
 
 # :star2: Game Rules:
 - The red and blue squares represent players, and with each collision, both players' sizes decrease.
