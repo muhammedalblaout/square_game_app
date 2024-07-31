@@ -10,7 +10,7 @@ This game is a thrilling physics-based game developed using the Flutter framewor
 # :star2: Demo:
 
 <div align="center"> 
-<video src="screenshots/demo.mp4"></video>
+<video src="https://github.com/muhammedalblaout/square_game_app/blob/master/screenshots/demo.mp4"></video>
 
 </div>
 
